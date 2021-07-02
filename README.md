@@ -12,7 +12,8 @@ In a one-sentence description, CVAE proceeds as conditioning the entire generati
   - matlabplotlib
   - keras
 - Model arichitecture
-https://github.com/lz10/CS523/blob/main/picture/architecture%201.png
+![avatar](https://github.com/lz10/CS523/blob/main/picture/architecture%201.png)
+![avatar](https://github.com/lz10/CS523/blob/main/picture/architecture%202.png)
 
 - Experimental Setup
   - dataset: MNIST dataset in torchvision.datasets
@@ -21,7 +22,11 @@ https://github.com/lz10/CS523/blob/main/picture/architecture%201.png
   - Optimizer: Adam
   - Epochs = 50
 - Training and testing:
+![avatar](https://github.com/lz10/CS523/blob/main/picture/training%20set.png)
+![avatar](https://github.com/lz10/CS523/blob/main/picture/test%20set.png)
+
 - Demos:
+![avatar](https://github.com/lz10/CS523/blob/main/picture/demo.png)
 
 ## References
 [1] Kihyuk Sohn, Honglak Lee, and Xinchen Yan. ‘Learning structured output representation using deep conditional generative models.’  _In NIPS_, 2015.
@@ -32,5 +37,6 @@ https://github.com/lz10/CS523/blob/main/picture/architecture%201.png
 
 [4] https://github.com/lyeoni/pytorch-mnist-CVAE
 
+[5] https://github.com/lyeoni/pytorch-mnist-VAE
 
 
