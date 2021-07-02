@@ -12,6 +12,8 @@ In a one-sentence description, CVAE proceeds as conditioning the entire generati
   - matlabplotlib
   - keras
 - Model arichitecture
+https://github.com/lz10/CS523/blob/main/picture/architecture%201.png
+
 - Experimental Setup
   - dataset: MNIST dataset in torchvision.datasets
   - Batchsize: 100
