@@ -31,6 +31,8 @@ In a one-sentence description, CVAE proceeds as conditioning the entire generati
 - Demos:
 ![avatar](https://github.com/lz10/CS523/blob/main/picture/demo.png)
 
+![avatar](https://github.com/lz10/CS523/blob/main/Conditional%20VAE.pdf)
+
 ## References
 [1] Kihyuk Sohn, Honglak Lee, and Xinchen Yan. ‘Learning structured output representation using deep conditional generative models.’  _In NIPS_, 2015.
 
