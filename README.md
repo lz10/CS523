@@ -1,5 +1,7 @@
 ## CS523
 # An application of CVAE on MINIST dataset
+author: Linan Zhang, Jintian Cai
+email: {lz1018,jtcai}@bu.edu
 
 This project focuses on the Conditional Variantional Auto-encoder, a member of VAE family that is enabled to sampling new data conditional on a specific input.
 - Traditional VAE model generates plausible looking fake samples while it could not control the model output. 
