@@ -31,8 +31,6 @@ In a one-sentence description, CVAE proceeds as conditioning the entire generati
 - Demos:
 ![avatar](https://github.com/lz10/CS523/blob/main/picture/demo.png)
 
-![avatar](https://github.com/lz10/CS523/blob/main/Conditional%20VAE.pdf)
-
 ## Full presentation slides
 https://github.com/lz10/CS523/blob/main/Conditional%20VAE.pdf
 
